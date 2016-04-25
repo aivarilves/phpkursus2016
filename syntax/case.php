@@ -1,6 +1,6 @@
  <?php  
 
-$menu_id = rand(1, 6);
+$menu_id = $_GET['menu_id'];
 
 switch ($menu_id)
 {
