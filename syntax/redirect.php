@@ -1,5 +1,7 @@
 <?php 
 
-header('Location: http://www.delfi.ee');
+// header('Location: http://www.delfi.ee');
+
+
 
 ?>
