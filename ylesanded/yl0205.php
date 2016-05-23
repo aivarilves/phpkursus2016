@@ -12,11 +12,13 @@ $movies[3][1] = 'Nukitsamees';
 $movies[3][2] = 'Viimne reliikvia';
 $movies[3][3] = 'Mehed ei nuta';
 
+print_r($movies);
+
 for ($i=1;$i<=3;$i++)
 {
     for ($j=1;$j<=3;$j++)
     {
-        echo "$movies[$i][$j]<br>";
+        echo $movies[$i][$j]."<br>";
     }
 }    
 
