@@ -1,16 +1,11 @@
-================================
-Ülesanne 0101
+<?php
 
-Järgnevas ülesandes tohib kasutada vaid IF tingimust ja FOR tsükklit. Arvude üleühe kuvamiseks kasutage lisamuutujat. Kuvada ühe FOR tsükkliga välja järgmine arvude jada järgmisel kujul: 
+for ($i=1;$i<20;$i++)
+{
+    if ($i%2!=0)
+    {
+        echo "$i<br>";
+    }
+}    
 
-1
-3
-5
-7
-9
-11
-13
-15
-17
-19
-
+?>

@@ -1,15 +1,11 @@
-================================
-Ülesanne 0103
+<?php
 
-Järgnevas ülesandes tohib kasutada vaid IF tingimust, mooduli võtmist (mod %) ja FOR tsükklit. Kuvada ühe FOR tsükkliga välja järgmine arvude jada järgmisel kujul: 
+for ($i=100;$i<=1000;$i++)
+{
+    if ($i%100==0)
+    {
+        echo "$i<br>";
+    }
+}    
 
-100
-200
-300
-400
-500
-600
-700
-800
-900
-1000
+?>
