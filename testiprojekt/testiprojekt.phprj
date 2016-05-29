@@ -6,7 +6,11 @@
  "settings": {
   "m_runAs": 0,
   "m_phpExe": "/usr/bin/php",
+<<<<<<< HEAD
   "m_indexFile": "/var/www/html/phpkursus2016/projekt1/info.php",
+=======
+  "m_indexFile": "/home/student/Desktop/html/testiprojekt/index.php",
+>>>>>>> 74a3feb1db6b62fba6e31e8a1d30b7e0070cb992
   "m_args": "",
   "m_workingDirectory": "",
   "m_projectURL": "",

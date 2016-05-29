@@ -1,0 +1,52 @@
+﻿--== PHP ülesanded 02 ==--
+PHP kursus 2016
+
+Vastused lisada Githubi andmehoidlasse https://github.com/kasutajanimi/phpkursus2016/ylesanded/yl0201.php järgmine failinimega yl0202.php jne. Lisa koodi sisse kommentaariks failide esimele reaks oma (hüüd)nimi, rühm ja kuupäev.
+Näide: https://github.com/supremecreature/phpkursus2016/tree/master/ylesanded
+
+MASSIIVID
+
+================================
+Ülesanne 0201
+
+Genereeri tsükliga 100 täisarvust koosnev massiiv.
+Väljasta see "print_r" funktsiooniga.
+
+
+
+================================
+Ülesanne 0202
+
+Lisa käsitsi massiivi 10 looma nime kasutades massiivi kohanäitu. Nt. $animals[0]="karu" jne.
+Väljasta see "foreach" tsükkliga.
+
+
+
+================================
+Ülesanne 0203
+
+Lisa käsitsi massiivi kümne näitleja nime kasutades massiivi loomiseks array funktsiooni 
+$stars = array('Clint', 'Bruce'); 
+Väljasta see "for" tsükliga.
+
+
+
+================================
+Ülesanne 0204
+
+Lisa massiivi inimese isikuandmed (nimi, vanus jne.) min 5 elementi.
+Väljasta need mõnes lauses, sellesama inimese kohta.
+Nt. "Kodanik [nimi] on [vanus] aastane"
+
+
+
+================================
+Ülesanne 0205
+
+
+Sisesta käsitsi 3x3 kahemõõtmeline massiiv. Massiivi elementideks sisesta filmide nimed.
+Nt.
+$movies[1][1] = 'Matrix';
+$movies[1][2] = 'Titanic';
+jne.
+Väljasta see massiiv tsüklitega.
